@@ -51,7 +51,7 @@ ratchet and a private one isn't.
 | 27 | May 3–9 | D5 Portfolio & Conversion | |
 | 28 | May 10–16 | D5 · 🎓 v3.1 | |
 
-*Dates are the planned calendar. Contract batches pause the clock — those weeks are
+*Dates are the planned calendar. External batches pause the clock — those weeks are
 marked `BATCH` and the module carries forward.*
 
 ---
