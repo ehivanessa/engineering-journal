@@ -23,7 +23,7 @@ ratchet and a private one isn't.
 | Week | Dates | Module | Entry |
 |---|---|---|---|
 | 1 | Nov 2–8 | A1 Repo & Git Discipline | [→](entries/week-01.md) |
-| 2 | Nov 9–15 | A2 Python Idioms for a Java Engineer | |
+| 2 | Nov 9–15 | A2 Python Idioms for a Java Engineer | [→](entries/week-02.md) |
 | 3 | Nov 16–22 | A3 Types & Data Modelling | |
 | 4 | Nov 23–29 | A4 Decorators, Context Managers, Generators | |
 | 5 | Nov 30–Dec 6 | A5 Async, Errors, Packaging | |
@@ -60,7 +60,7 @@ marked `BATCH` and the module carries forward.*
 
 | Artifact | Status |
 |---|---|
-| Flagship repo | — |
+| Flagship repo | [asofar](https://github.com/ehivanessa/asofar) |
 | Live URL | — |
 | CI/CD pipeline | — |
 | Evaluation numbers published | — |
