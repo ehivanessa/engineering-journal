@@ -6,13 +6,13 @@
 - git fundamentals
 
 **Built**
-- setup journal & capstone respository, set pull request rules and ci
+- setup journal & capstone repository, set pull request rules and ci
 
 **Problem**
 Windows line endings vs the Gutenberg fixtures
 
 **Solution**
-fixedwith .gitattributes -text, checked with git ls-files --eol and matching byte sizes.
+fixedwidth .gitattributes -text, checked with git ls-files --eol and matching byte sizes.
 
 **Next week**
 - learn python data model (done)
