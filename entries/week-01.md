@@ -12,7 +12,7 @@
 Windows line endings vs the Gutenberg fixtures
 
 **Solution**
-fixedwidth .gitattributes -text, checked with git ls-files --eol and matching byte sizes.
+fixed with .gitattributes -text, checked with git ls-files --eol and matching byte sizes.
 
 **Next week**
 - learn python data model (done)
