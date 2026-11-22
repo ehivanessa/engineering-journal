@@ -24,7 +24,7 @@ ratchet and a private one isn't.
 |---|---|---|---|
 | 1 | Nov 2–8 | A1 Repo & Git Discipline | [→](entries/week-01.md) |
 | 2 | Nov 9–15 | A2 Python Idioms for a Java Engineer | [→](entries/week-02.md) |
-| 3 | Nov 16–22 | A3 Types & Data Modelling | |
+| 3 | Nov 16–22 | A3 Types & Data Modelling | [→](entries/week-03.md) |
 | 4 | Nov 23–29 | A4 Decorators, Context Managers, Generators | |
 | 5 | Nov 30–Dec 6 | A5 Async, Errors, Packaging | |
 | 6 | Dec 7–13 | A6 Linux & Toolchain · 🏁 Block A | |
